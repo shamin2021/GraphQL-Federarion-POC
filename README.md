@@ -1,4 +1,4 @@
-**Objectives** \n
+**Objectives** <br />
 Determine whether it's technically feasible to implement GraphQL federation using Java technologies by Identifying the suitable tools and libraries in the Java ecosystem that support GraphQL federation and evaluate their capabilities for subgraph creation and federation 
 
 **Summary**
